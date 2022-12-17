@@ -6,7 +6,10 @@ flask a web to get  genshin impact realtime price via RMB
 以便于获得最便宜的国际服充值途径
 
 数据来源：
+
 https://webstatic-sea.mihoyo.com/payment/genshin/index.html
+
 实时汇率：
+
 https://www.google.com/finance/
 
